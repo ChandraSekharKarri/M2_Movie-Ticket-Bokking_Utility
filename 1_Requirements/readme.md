@@ -1,6 +1,6 @@
-THE USER REQUIREMENTS DOCUMENT
+<h1>THE USER REQUIREMENTS DOCUMENT
 
-INTRODUCTION
+<h2>INTRODUCTION
 
 Employees are the backbone of any company, management of employee performance plays a major role in
 deciding the success of the organization. The workshop is situated in Rwanda has a problem in
