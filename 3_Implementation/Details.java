@@ -11,7 +11,7 @@ class details  implements ActionListener{
     JButton b1,b2,b3,b4;
 
     details(){
-        f=new JFrame("Employee Detail");
+        f=new JFrame("Employee Details");
         f.setBackground(Color.white);
         f.setLayout(null);
 
