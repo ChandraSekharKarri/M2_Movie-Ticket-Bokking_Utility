@@ -1,12 +1,12 @@
 <h1>codiga code quality</h1>
  
- ![Code grade](https://api.codiga.io/project/31981/score/svg)
+![Code grade](https://api.codiga.io/project/31983/score/svg)
  
- ![Code grade](https://api.codiga.io/project/31981/status/svg)
+ ![Code grade](https://api.codiga.io/project/31983/status/svg)
  
 <h1>codacy code quality
   
-  [![Codacy Badge]()
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/92a8ffefc0f64167a33b00d80a1bf6d5)](https://www.codacy.com/gh/ChandraSekharKarri/M3_Employee-Management-System_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ChandraSekharKarri/M3_Employee-Management-System_Utility&amp;utm_campaign=Badge_Grade)
 
 # M3_Employee-Management-System
 
