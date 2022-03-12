@@ -14,7 +14,7 @@ JButton b,b1,b2;
 
 Forget_Password()
 {
-f=new JFrame("Forget");
+f=new JFrame("Forgot");
 
 f.setBackground(Color.green);
 f.setLayout(null);
@@ -43,7 +43,7 @@ Font F2=new Font("serif",Font.BOLD,30);
 l1.setFont(F2);
 l5.add(l1);
 
-l2=new JLabel("New Password");
+l2=new JLabel("Make New Password");
 l2.setBounds(50,250,200,30);
 l2.setForeground(Color.white);
 Font F3=new Font("serif",Font.BOLD,20); 
@@ -52,7 +52,7 @@ l2.setVisible(false);
 l5.add(l2);
 
 
-l3=new JLabel("Confirm Password");
+l3=new JLabel("Conform Password");
 l3.setBounds(50,300,250,30);
 l3.setForeground(Color.white);
 Font F4=new Font("serif",Font.BOLD,20); 
