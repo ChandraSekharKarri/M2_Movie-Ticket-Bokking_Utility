@@ -1,3 +1,13 @@
+<h1>codiga code quality</h1>
+ 
+ ![Code grade](https://api.codiga.io/project/31981/score/svg)
+ 
+ ![Code grade](https://api.codiga.io/project/31981/status/svg)
+ 
+<h1>codacy code quality
+  
+  [![Codacy Badge]()
+
 # M3_Employee-Management-System
 
 Employees are the backbone of any company, management of employee performance plays a major role in
