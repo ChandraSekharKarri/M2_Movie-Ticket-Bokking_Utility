@@ -20,7 +20,7 @@ class login  implements ActionListener{
         f.setBackground(Color.white);
         f.setLayout(null);
 
-        l1 = new JLabel("Username");
+        l1 = new JLabel("Username or ID");
         l1.setBounds(40,20,100,30);
         f.add(l1);
         
@@ -83,7 +83,7 @@ class login  implements ActionListener{
                 new details().f.setVisible(true);
                 f.setVisible(false);
             }else{
-                JOptionPane.showMessageDialog(null, "Invalid login");
+                JOptionPane.showMessageDialog(null, "Invalid login Details");
                 f.setVisible(false);
             }
         }catch(Exception e){
