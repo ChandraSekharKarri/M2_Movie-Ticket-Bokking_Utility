@@ -25,7 +25,7 @@ class Front_Page implements ActionListener{
         f.add(l1);
 
 
-        b = new JButton("CLICK HERE TO CONTINUE");
+        b = new JButton("CLICK BELOW TO CONTINUE");
         b.setBackground(Color.BLACK);
         b.setForeground(Color.WHITE);
         
