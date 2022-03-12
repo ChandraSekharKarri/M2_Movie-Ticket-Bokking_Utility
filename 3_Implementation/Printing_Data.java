@@ -24,13 +24,13 @@ class Print_Data implements ActionListener{
                 name = rs.getString("name");
                 father = rs.getString("fname");
                 age = rs.getString("age");
-                dob = rs.getString("dob");
+                dob = rs.getString("dateofbirth");
                 address = rs.getString("address");
                 phone = rs.getString("phone");
-                email = rs.getString("email");
+                email = rs.getString("emailid");
                 education = rs.getString("education");
                 post = rs.getString("post");
-                aadhar = rs.getString("aadhar");
+                aadhar = rs.getString("aadharcard");
                 emp_id = rs.getString("emp_id");
             }
         }catch(Exception e){
