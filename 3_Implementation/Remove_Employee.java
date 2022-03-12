@@ -138,7 +138,7 @@ class Remove_Employee implements ActionListener{
                     l8.setText(email);
                 }
                 if(i==0)
-                    JOptionPane.showMessageDialog(null,"Id not found");
+                    JOptionPane.showMessageDialog(null,"Id was not found");
             }catch(Exception ex){}
         }
         if(ae.getSource()==b1){
@@ -157,7 +157,7 @@ class Remove_Employee implements ActionListener{
                 b2.setVisible(false);
 
             }catch(Exception ex){
-                JOptionPane.showMessageDialog(null,"Exception occured while delting record "+ex);
+                JOptionPane.showMessageDialog(null,"Exception occuring while deleting record "+ex);
             }
         }
         if(ae.getSource()==b2){
