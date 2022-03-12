@@ -184,11 +184,11 @@ class Add_Employee implements ActionListener{
                 conn cc = new conn();
                 String q = "insert into employee values('"+a+"','"+bb+"','"+c+"','"+d+"','"+e+"','"+ff+"','"+g+"','"+h+"','"+i+"','"+j+"','"+k+"')";
                 cc.s.executeUpdate(q);
-                JOptionPane.showMessageDialog(null,"Details Successfully Inserted");
+                JOptionPane.showMessageDialog(null,"Details have been Successfully Inserted");
                 f.setVisible(false);
                 new details();
             }catch(Exception ee){
-                System.out.println("The error is:"+ee);
+                System.out.println("Error is:"+ee);
             }
         }else if(ae.getSource() == b1){
             f.setVisible(false);
